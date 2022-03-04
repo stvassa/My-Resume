@@ -1,0 +1,259 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Main content section*/
+
+.main-content-section {
+  padding: 100px 90px;
+}
+
+.main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+/* About me section */
+.about-me {
+  margin: 0 0 40px 0;
+}
+
+.am-proff {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin: 0 0 20px 0;
+}
+
+.name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin: 0 0 25px 0;
+}
+
+.about-me-description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  max-width: 700px;
+}
+
+/* My project section */
+
+.projects {
+  margin: 0 0 50px 0;
+}
+
+.projects-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  margin: 0 0 0 5px;
+}
+
+.projects-list {
+  padding: 0 0 0 17px;
+}
+
+.projects-item {
+  color: black;
+  font-weight: bold;
+}
+
+.projects-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin: 0 0 0 5px;
+}
+
+.projects-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.projects-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+
+/* My Work Experience and Education*/
+
+.work-experience-block {
+  margin: 0 15px 0 0;
+}
+
+.work-experience-company {
+  color: #fb6d3a;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.work-experience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: black;
+  margin: 0 0 10px 0;
+}
+
+.main-content-period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 0 0 10px 0;
+}
+
+.devider {
+  color: black;
+  margin: 0 5px 0 5px;
+}
+
+.work-experience-duties {
+  padding: 0 0 0 18px;
+  margin-bottom: 30px;
+}
+
+.work-experience-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.education {
+  margin-top: 40px;
+  margin: 0 0 10px 0;
+}
+
+.education p {
+  margin-bottom: 30px;
+}
+
+.university {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+  margin: 0 0 10px 0;
+}
+
+.faculty {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+  margin: 0 0 10px 0;
+}
+
+.degree {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: black;
+  margin: 0 0 10px 0;
+}
+
+/* Sidebar section */
+.sidebar-section {
+  background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+  width: 370px;
+  padding: 40px 0;
+}
+
+/* Sidebar skills section style */
+
+.sidebar-bullets {
+  padding: 0 0 0 17px;
+}
+
+.sidebar-skills-item {
+  color: #fb6d3a;
+}
+
+.sidebar-skills-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.contacts {
+  margin: 50px 0 0 40px;
+}
+
+.tech-skills {
+  margin: 50px 0 0 40px;
+}
+
+.soft-Skills {
+  margin: 50px 0 0 0px;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+/* Contacts section */
+.contacts-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  margin-right: 5px;
+  color: #fff;
+}
+
+.contacts-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
